@@ -1,0 +1,18 @@
+<responses>
+    <response text="https://btclod.com">
+        <trigger>youtube.com</trigger>
+        <trigger2>youtu.be</trigger2>
+    </response>
+    <response text="https://redditsave.com/">
+        <trigger>reddit.com</trigger>
+    </response>
+    <response text="https://igram.io/">
+        <trigger>instagram.com</trigger>
+    </response>
+    <response text="">
+        <trigger>tiktok.com</trigger>
+    </response>
+    <response text="https://twittervideodownloader.com/">
+        <trigger>twitter.com</trigger>
+    </response>
+</responses>
