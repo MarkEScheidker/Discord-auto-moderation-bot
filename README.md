@@ -6,7 +6,7 @@ A project born out of necessity. I needed a simple self-hosted bot that removed 
 # How do I run this?
 You can either use the executable I provided, or run/compile it yourself.
 
-# How do I configure this?
+# How do I set this up?
 Make sure you have created a discord bot, and have a bot token. This is not hard to do, and there are lots of tutorials on how to do this. Once you have your bot token, paste it into a file called "token.txt" and place that file in the same directory as the executable, or wherever you happen to be running the python file. Next, copy the config.xml I have provided as a framework to get started at configuring the bot yourself. 
 
 # How does the configuration work?
